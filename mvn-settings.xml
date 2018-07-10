@@ -96,7 +96,7 @@ under the License.
       <id>optional</id>
       <active>true</active>
       <protocol>http</protocol>
-      <host>164.25.35.235:8080</host>
+      <host>164.25.35.235</host>
       <port>8080</port>
     </proxy>
   </proxies>
