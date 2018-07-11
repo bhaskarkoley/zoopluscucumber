@@ -1,4 +1,4 @@
-## Automated web tests using Serenity, Cucumber and Maven, Selenium Grid, Parallel Testing
+## Automated web tests using Serenity, Cucumber and Maven and CI/CD with Jenkins using Selenium Grid, Parallel Testing
 
 A simple example of some BDD-style automated acceptance criteria 
 
