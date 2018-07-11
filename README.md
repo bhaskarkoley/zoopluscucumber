@@ -28,21 +28,21 @@ The Page objects are defined in:
 cucumber-webtests/src/test/java/net/thucydides/showcase/cucumber/pages
 
 - run against multiple shops:
-	I would pass the shop as a maven parameter using : 
+I would pass the shop as a maven parameter using : 
 ```
-		-Dwebdriver.base.url=https://www.wolf-of-wilderness.com
+-Dwebdriver.base.url=https://www.wolf-of-wilderness.com
 ```
-		In the current project the properties are defined in the serenities.properties file.
-		In Jenkins we will call the project multiple times with different base.url.
+In the current project the properties are defined in the serenities.properties file.
+In Jenkins we will call the project multiple times with different base.url.
 		
-- select multiple languages:
-	The Locale will be passed as a maven parameter using:
+select multiple languages:
+The Locale will be passed as a maven parameter using:
 ```
-		-Dlang=DE
- ```
-		The project uses the module resourcebundle to read the key/value pairs of the language locale.
-		Once we have all the labels then we can substitute them during the call. The implementation part is missing currently.
-		for eg: 
+-Dlang=DE
+```
+The project uses the module resourcebundle to read the key/value pairs of the language locale.
+Once we have all the labels then we can substitute them during the call. The implementation part is missing currently.
+for eg: 
 			in File labels_nl_NL.properties the 
 				key "Lamm" will fetch value "Lam"
 			
@@ -61,22 +61,22 @@ cucumber-webtests/src/test/java/net/thucydides/showcase/cucumber/pages
     | Hase     | Probierpakete  | shop/de/probierpakete/c/CZ533594?q=%3Arelevance%3Aflavour%3AHase&text=    |
 ```
 
-	For asserting the "top header highlighting" and "Facet filter" selection, 
-	- i have used the webelementfacade to findAll li and then find child "input=checkbox" with the label "Lamm" (for eg) and then assert if its selected
+For asserting the "top header highlighting" and "Facet filter" selection, 
+- i have used the webelementfacade to findAll li and then find child "input=checkbox" with the label "Lamm" (for eg) and then assert if its selected
 	
-	- How to do you prefer to choose as a test execution input parameter?
+- How to do you prefer to choose as a test execution input parameter?
 	the Testdata is driven by EXAMPLES defined in the feature file. At the moment i am using facet, category and link as the input criterion. The base url and language are defined globally for each run.
 	
-	- What do you prefer to choose as a step parameter?
+- What do you prefer to choose as a step parameter?
 	Yes i will use the examples as suggested above.
 	
-	Why?
+Why?
 	To try not to repeat the code and tests are driven by Testdata
 	
 2.) Selenium grid:
 
-	- To launch selenium grid i installed locally the selenium standalone server
-	and using a startgrid.sh i start the grid
+To launch selenium grid i installed locally the selenium standalone server
+and using a startgrid.sh i start the grid
 ```  
 		HUB_URL=http://localhost:4444/grid/register
 		CHROME_DRIVER_LOC=/home/osboxes/selenium/chromedriver
@@ -84,8 +84,7 @@ cucumber-webtests/src/test/java/net/thucydides/showcase/cucumber/pages
 		java -jar selenium-server-standalone-3.13.0.jar -role node -hub $HUB_URL -port 5556 &
 		java -jar selenium-server-standalone-3.13.0.jar -role node -hub $HUB_URL -port 5557 &
 ```
-
-	- to run the scenarios parallely i updated the failsage plugin in the pom.xml. The solution is based on https://johnfergusonsmart.com/running-parallel-tests-serenity-bdd-cucumber/
+to run the scenarios parallely i updated the failsage plugin in the pom.xml. The solution is based on https://johnfergusonsmart.com/running-parallel-tests-serenity-bdd-cucumber/
 ```  
             <plugin>
                 <artifactId>maven-failsafe-plugin</artifactId>
@@ -109,10 +108,9 @@ cucumber-webtests/src/test/java/net/thucydides/showcase/cucumber/pages
                     </execution>
                 </executions>
             </plugin>
-	```
-		This will run your feature runner classes in parallel. 
-		Next, we need to configure the cucumber-jvm-parallel-plugin to generate these runners. The configuration will look something like this:
-
+```
+This will run your feature runner classes in parallel. 
+Next, we need to configure the cucumber-jvm-parallel-plugin to generate these runners. The configuration will look something like this:
 ```
            <plugin>
                 <groupId>com.github.temyers</groupId>
@@ -139,24 +137,24 @@ cucumber-webtests/src/test/java/net/thucydides/showcase/cucumber/pages
             </plugin>
             <plugin>
 ```
-		A custom template to use to generate the test runners called cucumber-serenity-runner.vm is created and is placed under src/test/resources directory. 
+A custom template to use to generate the test runners called cucumber-serenity-runner.vm is created and is placed under src/test/resources directory. 
 		
-		- to run the cucumber tests i will simply invoke:
+to run the cucumber tests i will simply invoke:
 ```    
 		mvn verify -Dwebdriver.remote.url=http://localhost:4444/wd/hub -Dwebdriver.remote.driver=chrome -Dwebdriver.remote.os=LINUX -Dwebdriver.base.url=https://www.wolf-of-wilderness.com -Dlang=DE
 ```
-		The chromedriver has to be defined and also in the serenity.properties file.
+The chromedriver has to be defined and also in the serenity.properties file.
 		
 3.) For running the tests in Jenkins, i installed the following:
 			- Jenkins itself
 			- selenium grid	
 			- Chromedriver plugin
 		
-		Configured the Selenium grid to have 1 hub and 2 nodes.
-		the following jenkinsfile will then run the tests in Jenkins
+Configured the Selenium grid to have 1 hub and 2 nodes.
+the following jenkinsfile will then run the tests in Jenkins
 
 ```
-    node {
+node {
 
     git url: 'https://github.com/bhaskarkoley/zoopluscucumber.git', branch: 'master'
 
@@ -180,18 +178,16 @@ cucumber-webtests/src/test/java/net/thucydides/showcase/cucumber/pages
         alwaysLinkToLastBuild: true,
         allowMissing: false
     ])
-}
-		
+}	
 ```		
-
 Questions:
-- How would you improve your solution further?
-		- Configure the test to use several different browser and device combinations. see Browsercombos.json
-		- Configure the test to run in both "local" or "jenkins" mode by using a marker file "local.json"
-		- Since the menu changes with the window size, adapt the menu item search based on the browser size / window
+How would you improve your solution further?
+- Configure the test to use several different browser and device combinations. see Browsercombos.json
+- Configure the test to run in both "local" or "jenkins" mode by using a marker file "local.json"
+- Since the menu changes with the window size, adapt the menu item search based on the browser size / window
 
 - Which improvements idea would you implement first.
-	- I will implement first the menu adaptation feature based on the browser
+- I will implement first the menu adaptation feature based on the browser
 				
 
 
