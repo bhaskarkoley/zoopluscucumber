@@ -186,7 +186,7 @@ How would you improve your solution further?
 - Configure the test to run in both "local" or "jenkins" mode by using a marker file "local.json"
 - Since the menu changes with the window size, adapt the menu item search based on the browser size / window
 
-- Which improvements idea would you implement first.
+Which improvements idea would you implement first.
 - I will implement first the menu adaptation feature based on the browser
 				
 

@@ -14,12 +14,9 @@ Feature: Facet Filer enabled
     | facet    | category       | link                                                                      |
     | Lamm     | Nassfutter     | shop/de/nassfutter/c/CZ533500?q=%3Arelevance%3Aflavour%3ALamm&text=       |
     | Hase     | Probierpakete  | shop/de/probierpakete/c/CZ533594?q=%3Arelevance%3Aflavour%3AHase&text=    |
-<<<<<<< HEAD
     | Fisch    | Nassfutter     | shop/de/nassfutter/c/CZ533500?q=%3Arelevance%3Aflavour%3AFisch&text=    |
     | Geflügel | Nassfutter     | shop/de/nassfutter/c/CZ533500?q=%3Arelevance%3Aflavour%3AGefl%25C3%25BCgel&text=    |
     | Bälle    | Accessoires    | shop/de/accessoires/c/CZ618462?q=%3Arelevance%3Atype_toy%3AB%25C3%25A4lle&text=    |
     | Hase     | wild-freedom   | shop/de/wild-freedom/c/CZ604816?q=%3Arelevance%3Aflavour%3AHase&text=    |
     | Huhn     | wild-freedom   | shop/de/wild-freedom/c/CZ604816?q=%3Arelevance%3Aflavour%3AHuhn&text=    |
     | Puppy    | nassfutter     | shop/de/nassfutter/c/CZ533500?q=%3Arelevance%3Aphase%3APuppy&text=    |
-=======
->>>>>>> deb110c9b1c8583f0265450f2aef663a35fb32f9
