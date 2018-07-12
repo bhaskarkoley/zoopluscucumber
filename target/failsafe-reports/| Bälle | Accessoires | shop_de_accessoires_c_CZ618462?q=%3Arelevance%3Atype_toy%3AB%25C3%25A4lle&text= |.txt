@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: | Bälle | Accessoires | shop/de/accessoires/c/CZ618462?q=%3Arelevance%3Atype_toy%3AB%25C3%25A4lle&text= |
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in | Bälle | Accessoires | shop/de/accessoires/c/CZ618462?q=%3Arelevance%3Atype_toy%3AB%25C3%25A4lle&text= |

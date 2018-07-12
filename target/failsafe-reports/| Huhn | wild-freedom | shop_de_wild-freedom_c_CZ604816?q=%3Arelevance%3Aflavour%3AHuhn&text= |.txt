@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: | Huhn | wild-freedom | shop/de/wild-freedom/c/CZ604816?q=%3Arelevance%3Aflavour%3AHuhn&text= |
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in | Huhn | wild-freedom | shop/de/wild-freedom/c/CZ604816?q=%3Arelevance%3Aflavour%3AHuhn&text= |

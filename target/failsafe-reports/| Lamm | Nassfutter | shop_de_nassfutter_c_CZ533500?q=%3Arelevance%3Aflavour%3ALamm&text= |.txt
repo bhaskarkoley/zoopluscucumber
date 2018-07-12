@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: | Lamm | Nassfutter | shop/de/nassfutter/c/CZ533500?q=%3Arelevance%3Aflavour%3ALamm&text= |
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec - in | Lamm | Nassfutter | shop/de/nassfutter/c/CZ533500?q=%3Arelevance%3Aflavour%3ALamm&text= |

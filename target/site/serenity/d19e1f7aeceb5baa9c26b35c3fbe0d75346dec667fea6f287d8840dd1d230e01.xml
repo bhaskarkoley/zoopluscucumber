@@ -1,0 +1,76 @@
+<acceptance-test-run title="Facet filter enabled" name="Facet filter enabled" description="" steps="6" successful="6" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="20660" timestamp="2018-07-11T10:19:17.964+02:00" session-id="a9f821f2de390e2c476bdae98ce60f97">
+  <user-story id="facet-filer-enabled" name="Facet Filer enabled" path="category/facet_filter.feature"/>
+  <tags>
+    <tag name="Category" type="capability"/>
+    <tag name="Category/Facet filer enabled" type="feature"/>
+    <tag name="Facet Filer enabled" type="feature"/>
+  </tags>
+  <examples>
+    <datasets>
+      <dataset startRow="0" rowCount="0" name="" description=""/>
+    </datasets>
+    <headers>
+      <header>facet</header>
+      <header>category</header>
+      <header>link</header>
+    </headers>
+    <rows>
+      <row result="SUCCESS">
+        <value>Lamm</value>
+        <value>Nassfutter</value>
+        <value>shop/de/nassfutter/c/CZ533500?q=%3Arelevance%3Aflavour%3ALamm&amp;text=</value>
+      </row>
+      <row result="SUCCESS">
+        <value>Hase</value>
+        <value>Probierpakete</value>
+        <value>shop/de/probierpakete/c/CZ533594?q=%3Arelevance%3Aflavour%3AHase&amp;text=</value>
+      </row>
+    </rows>
+  </examples>
+  <test-group name="[1] {facet=Lamm, category=Nassfutter, link=shop/de/nassfutter/c/CZ533500?q=%3Arelevance%3Aflavour%3ALamm&amp;text=}" result="SUCCESS">
+    <screenshots>
+      <screenshot image="8e1b8a2eec88d2464dbfc12598902622.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="9262">
+      <screenshots>
+        <screenshot image="8e1b8a2eec88d2464dbfc12598902622.png"/>
+      </screenshots>
+      <description>Given I have a facet filter &quot;Lamm&quot; enabled for category &quot;Nassfutter&quot; using link &quot;shop/de/nassfutter/c/CZ533500?q=%3Arelevance%3Aflavour%3ALamm&amp;text=&quot;</description>
+    </test-step>
+    <test-step result="SUCCESS" duration="1013">
+      <screenshots>
+        <screenshot image="8e1b8a2eec88d2464dbfc12598902622.png"/>
+      </screenshots>
+      <description>Then facet filter should be enabled</description>
+    </test-step>
+    <test-step result="SUCCESS" duration="571">
+      <screenshots>
+        <screenshot image="8e1b8a2eec88d2464dbfc12598902622.png"/>
+      </screenshots>
+      <description>Then the top header highlighting is correct</description>
+    </test-step>
+  </test-group>
+  <test-group name="[1] {facet=Hase, category=Probierpakete, link=shop/de/probierpakete/c/CZ533594?q=%3Arelevance%3Aflavour%3AHase&amp;text=}" result="SUCCESS">
+    <screenshots>
+      <screenshot image="7d8b474a01c8d5f0341422926ce48af2.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="7168">
+      <screenshots>
+        <screenshot image="7d8b474a01c8d5f0341422926ce48af2.png"/>
+      </screenshots>
+      <description>Given I have a facet filter &quot;Hase&quot; enabled for category &quot;Probierpakete&quot; using link &quot;shop/de/probierpakete/c/CZ533594?q=%3Arelevance%3Aflavour%3AHase&amp;text=&quot;</description>
+    </test-step>
+    <test-step result="SUCCESS" duration="1024">
+      <screenshots>
+        <screenshot image="7d8b474a01c8d5f0341422926ce48af2.png"/>
+      </screenshots>
+      <description>Then facet filter should be enabled</description>
+    </test-step>
+    <test-step result="SUCCESS" duration="557">
+      <screenshots>
+        <screenshot image="7d8b474a01c8d5f0341422926ce48af2.png"/>
+      </screenshots>
+      <description>Then the top header highlighting is correct</description>
+    </test-step>
+  </test-group>
+</acceptance-test-run>

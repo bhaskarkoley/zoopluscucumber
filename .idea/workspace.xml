@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8115dd84-2bb3-4fd6-a79c-87c12eb17608" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="serenity.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/serenity.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="137" selection-start-line="137" selection-end-line="183" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowserCombos.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/BrowserCombos.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="jenkinsconfig.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/jenkinsconfig.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuyerSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/serenity/BuyerSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategorySteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/CategorySteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facet_filter.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/category/facet_filter.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoryPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/pages/CategoryPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="22" column="75" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeleniumConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/SeleniumConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/CategoryFacetEnabled.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/pages/CategoryPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/serenity/BuyerSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/pages/CategoryPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/CategorySteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/CategoryFacetEnabled2.java" />
+        <option value="$PROJECT_DIR$/serenity.properties" />
+        <option value="$PROJECT_DIR$/src/test/resources/cucumber-serenity-runner.vm" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/nl.text" />
+        <option value="$PROJECT_DIR$/src/test/resources/labels_nl_NL.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/SeleniumConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/category/facet_filter.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/jenkinsconfig.groovy" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sample Serenity Cucumber project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sample Serenity Cucumber project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="212" />
+    <option name="width" value="429" />
+    <option name="height" value="430" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumber" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumber" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumber" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+              <item name="serenity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumber-webtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumber-webtests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="category" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.thucydides.showcase.cucumber" />
+      <recent name="net.thucydides.showcase.cucumber.pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features/category" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CategoryFacetEnabled">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CategoryFacetEnabled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber-webtests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thucydides.showcase.cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="net.thucydides.showcase.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="net.thucydides.showcase.cucumber.CategoryFacetEnabled" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SearchByKeyword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber-webtests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thucydides.showcase.cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="net.thucydides.showcase.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="net.thucydides.showcase.cucumber.SearchByKeyword" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SearchByKeyword" />
+      <item itemvalue="JUnit.CategoryFacetEnabled" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CategoryFacetEnabled" />
+        <item itemvalue="JUnit.SearchByKeyword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8115dd84-2bb3-4fd6-a79c-87c12eb17608" name="Default" comment="" />
+      <created>1531051451532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531051451532</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 03m 00s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 04m 54s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 13m 18s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 14m 05s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 15m 44s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 17m 21s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 19m 38s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 20m 51s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 28m 23s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryFacetEnabled - 2018.07.10 at 01h 42m 51s.xml">
+      <configuration name="CategoryFacetEnabled" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="28" width="1682" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.329235" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50106955" side_tool="true" weight="0.3766404" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32944787" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49893048" visible="true" weight="0.329235" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32939634" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22944786" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.329235" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39895013" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49946523" weight="0.32939634" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/CategorySteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber-serenity-runner.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/CategoryFacetEnabled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3078">
+          <caret line="171" column="52" selection-start-line="171" selection-start-column="52" selection-end-line="171" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/SearchByKeyword.java" />
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/search/search_by_keyword.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/steps/SearchScenarioSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/CategoryFacetEnabled.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/SearchByKeyword.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/pages/SearchResultsPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/pages/CartPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/pages/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/steps/CategorySteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/pages/CategoryPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/junit/shopping_cart/AddStuffToTheShoppingCartTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zooplus/cucumber/steps/serenity/BuyerSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/pages/CartPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/pages/ListingPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/DisplayProductDetailsScenarioSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/DisplayProductDetails.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/Petstore.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/SearchByKeyword.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/AddItemToShoppingCart.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/ShoppingCartScenarioSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/SearchScenarioSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/PetStoreSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/junit/shopping_cart/AddStuffToTheShoppingCartTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/model/OrderCostSummary.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/model/ListingItem.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/model/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/model/Pet.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/model/SessionVariables.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/CategoryFacetEnabled2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cucumber-serenity-runner.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/serenity/BuyerSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/steps/CategorySteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/GlobalTestConfiguration.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/deutsch.text">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/nl.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/labels_nl_NL.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/local.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/CategoryFacetEnabled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/SeleniumConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/thucydides/showcase/cucumber/pages/CategoryPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/category/facet_filter.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="137" selection-start-line="137" selection-end-line="183" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/BrowserCombos.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/jenkinsconfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,74 @@
+{
+  "browser": [
+	[
+		"Windows 10",
+		"internet explorer",
+		"11",
+		"desktop",
+		"screen"
+	],
+	[
+		"Windows 8.1",
+		"chrome",
+		"29",
+		"desktop",
+		"screen"
+	],
+	[
+		"Windows 8",
+		"internet explorer",
+		"10",
+		"desktop",
+		"screen"
+	],
+	[
+		"Windows 7",
+		"internet explorer",
+		"9",
+		"desktop",
+		"screen"
+	],
+	[
+		"Windows XP",
+		"firefox",
+		"24",
+		"desktop",
+		"screen"
+	],
+	[
+		"OS X 10.9",
+		"safari",
+		"7",
+		"desktop",
+		"screen"
+	],
+	[
+		"OS X 10.10",
+		"iPad",
+		"9.2",
+		"iPad Retina",
+		"tablet"
+	],
+	[
+		"OS X 10.10",
+		"iPhone",
+		"9.2",
+		"iPhone 5",
+		"smartphone"
+	],
+	[
+		"Linux",
+		"android",
+		"4.4",
+		"Google Nexus 7C Emulator",
+		"smartphone"
+	],
+	[
+		"Linux",
+		"android",
+		"4.4",
+		"Samsung Galaxy S4 Emulator",
+		"smartphone"
+	]
+  ]
+}
